@@ -6,7 +6,9 @@ The theme based on the [Base16](https://github.com/chriskempson/base16) model al
 with respect to the asssignment of base indices to code features.
 
 ## Examples
+<img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0.png" alt="Example 1" style="width:750px;height:auto;box-shadow: 0px 9px 34px -14px rgba(0,0,0,0.5);">
 
+<img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example1.png" alt="Example 2" style="width:750px;height:auto;box-shadow: 0px 9px 34px -14px rgba(0,0,0,0.5);">
 
 ## Implementations
 At the moment the theme is implemented for the Eclipse Color Theme plugin exclusively, though other implementations may follow.
