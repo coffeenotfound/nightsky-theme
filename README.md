@@ -6,7 +6,7 @@
 
 Nightsky is a color theme inspired by the mysterious colors and the chilling darkness of our universe.
 
-The theme based on the [Base16](https://github.com/chriskempson/base16) model although some liberties were taken
+The theme is based on the [Base16](https://github.com/chriskempson/base16) model although some liberties were taken
 with respect to the asssignment of base indices to code features.
 
 ## Examples
