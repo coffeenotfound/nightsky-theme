@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="0" name="Nightsky" modified="2017-06-16 00:00:00" author="coffeenotfound">
+<colorTheme id="0" name="Nightsky" version="v2" modified="2017-07-01 00:00:00" author="coffeenotfound">
 	<!-- base00 - Default Background -->
-	<background color="#25252B" />
+	<background color="#1F1F23" />
 	
 	<!-- base01 - Lighter Background -->
 	<currentLine color="#2E2E35" />
+	
+	<searchResultIndication color="#2E2E35" />
+    <filteredSearchResultIndication color="#2E2E35" />
+    <occurrenceIndication color="#2E2E35" />
+    <writeOccurrenceIndication color="#2E2E35" />
 	
 	<!-- base02 - Selection Background -->
 	<selectionBackground color="#393942" />
 	<lineNumber color="#393942" />
 	
-	<searchResultIndication color="#393942" />
-    <filteredSearchResultIndication color="#393942" />
-    <occurrenceIndication color="#393942" />
-    <writeOccurrenceIndication color="#393942" />
-	
 	<!-- base03 - Comments, Invisibles, Line Hightlighting -->
-	<singleLineComment color="#999591" italic="false" />
-    <multiLineComment color="#999591" italic="false" />
-	<annotation color="#999591" />
+	<singleLineComment color="#918D8A" italic="false" />
+    <multiLineComment color="#918D8A" italic="false" />
+	<annotation color="#918D8A" />
 	
 	<!-- base04 - Dark Foreground -->
 	<!--<operator color="#F7E3C3" />-->
-	<bracket color="#E0DBD2" />
+	<bracket color="#D1CCC4" />
 	
 	<!-- base05 - Default Foreground, Caret, Delimiters, Operators -->
-	<foreground color="#F2EEE6" />
-	<selectionForeground color="#F2EEE6" />
+	<foreground color="#EAE7E1" />
+	<selectionForeground color="#EAE7E1" />
 	
-	<localVariable color="#F2EEE6" />
-	<localVariableDeclaration color="#F2EEE6" />
+	<localVariable color="#EAE7E1" />
+	<localVariableDeclaration color="#EAE7E1" />
 	
-	<operator color="#F2EEE6" />
+	<operator color="#EAE7E1" />
 	
 	<!-- base06 - Light Foreground -->
 	
@@ -67,11 +67,11 @@
 	<parameterVariable color="#D6C3B3" />
 	
 	<!-- base0D - Functions, Methods, Attribute IDs, Headings -->
-	<method color="#F2EEE6" />
-	<methodDeclaration color="#F2EEE6" />
-	<staticMethod color="#F2EEE6" />
-	<inheritedMethod color="#F2EEE6" />
-	<abstractMethod color="#F2EEE6" />
+	<method color="#88CC97" />
+	<methodDeclaration color="#88CC97" />
+	<inheritedMethod color="#88CC97" />
+	<abstractMethod color="#88CC97" />
+	<staticMethod color="#88CC97" />
 	
 	<!-- base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed -->
 	<keyword color="#BAA3D1" bold="false" />
@@ -80,9 +80,6 @@
 	
 	<!-- base0F - Deprecated, Opening/Closing Embedded Language Tags -->
 	<deprecatedMember color="#ED6D7E" underline="false" strikethrough="true" />
-	
-	
-	
 	
 	<!--
     <findScope color="#343D46" />
