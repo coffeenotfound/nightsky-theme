@@ -10,7 +10,9 @@ The theme is based on the [Base16](https://github.com/chriskempson/base16) model
 with respect to the asssignment of base indices to code features.
 
 ## Example
-<img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0_v2.png" alt="Code Example">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0_v2.png" alt="Code Example">
+</p>
 
 ## Implementations
 At the moment the theme is implemented for the Eclipse Color Theme plugin exclusively, though other implementations may follow.
