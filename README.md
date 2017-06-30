@@ -1,7 +1,7 @@
 # Nightsky
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/palette_overview_v1.png" alt="Color Palette">
+  <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/palette_overview_v2.png" alt="Color Palette">
 </p>
 
 Nightsky is a color theme inspired by the mysterious colors and the chilling darkness of our universe.
