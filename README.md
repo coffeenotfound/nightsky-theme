@@ -10,8 +10,9 @@ The theme is based on the [Base16](https://github.com/chriskempson/base16) model
 with respect to the asssignment of base indices to code features.
 
 ## Example
+(Slightly outdated; Using Nightsky 2)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0_v3.png" alt="Code Example">
+  <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0_v2.png" alt="Code Example">
 </p>
 
 ## Implementations
