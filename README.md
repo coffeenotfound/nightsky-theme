@@ -14,6 +14,9 @@ with respect to the asssignment of base indices to code features.
   <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/example0.png" alt="Code Example">
 </p>
 
+## Download
+* [Eclipse](https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/eclipse/nightsky.xml)
+
 ## Implementations
 At the moment the theme is only implemented for [Eclipse Color Theme](http://www.eclipsecolorthemes.org/).
 
