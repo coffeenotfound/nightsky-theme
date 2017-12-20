@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="0" name="Nightsky" version="v2" modified="2017-07-01 00:00:00" author="coffeenotfound">
+<!-- Nightsky v5 -->
+<colorTheme id="0" name="Nightsky" modified="2017-12-20 00:00:00" author="coffeenotfound">
 	<!-- base00 - Default Background -->
-	<background color="#1F1F23" />
+	<background color="#242228" />
 	
 	<!-- base01 - Lighter Background -->
-	<currentLine color="#2E2E35" />
+	<currentLine color="#34343A" />
 	
-	<searchResultIndication color="#2E2E35" />
-    <filteredSearchResultIndication color="#2E2E35" />
-    <occurrenceIndication color="#2E2E35" />
-    <writeOccurrenceIndication color="#2E2E35" />
+	<searchResultIndication color="#34343A" />
+    <filteredSearchResultIndication color="#34343A" />
+    <occurrenceIndication color="#34343A" />
+    <writeOccurrenceIndication color="#34343A" />
 	
 	<!-- base02 - Selection Background -->
-	<selectionBackground color="#393942" />
-	<lineNumber color="#393942" />
+	<selectionBackground color="#3D3D44" />
 	
 	<!-- base03 - Comments, Invisibles, Line Hightlighting -->
-	<singleLineComment color="#918D8A" italic="false" />
-    <multiLineComment color="#918D8A" italic="false" />
-	<annotation color="#918D8A" />
+	<singleLineComment color="#899093" italic="false" />
+    <multiLineComment color="#899093" italic="false" />
+	<annotation color="#899093" />
 	
 	<!-- base04 - Dark Foreground -->
 	<!--<operator color="#F7E3C3" />-->
-	<bracket color="#D1CCC4" />
+	<bracket color="#D0D4D8" />
 	
 	<!-- base05 - Default Foreground, Caret, Delimiters, Operators -->
-	<foreground color="#EAE7E1" />
-	<selectionForeground color="#EAE7E1" />
+	<foreground color="#E1E6EA" />
+	<selectionForeground color="#E1E6EA" />
 	
-	<localVariable color="#EAE7E1" />
-	<localVariableDeclaration color="#EAE7E1" />
+	<localVariable color="#E1E6EA" />
+	<localVariableDeclaration color="#E1E6EA" />
 	
-	<operator color="#EAE7E1" />
+	<operator color="#E1E6EA" />
 	
 	<!-- base06 - Light Foreground -->
 	
 	<!-- base07 - Light Background (Not often used) -->
+	<lineNumber color="#5E5E68" />
 	
 	<!-- base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted -->
-	<field color="#9BBDF2" />
-    <typeArgument color="#9BBDF2" />
-    <typeParameter color="#9BBDF2" />
+	<field color="#92BAF4" />
+    <typeArgument color="#92BAF4" />
+    <typeParameter color="#92BAF4" />
 	
 	<!-- base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url -->
-	<number color="#DB6978" />
-	<constant color="#DB6978" />
+	<number color="#F78467" />
+	<constant color="#F78467" />
+	<string color="#F78467" />
 	
 	<!-- base0A - Classes, Markup Bold, Search Text Background -->
-	<class color="#7AB8BC" bold="false" underline="false" strikethrough="false" />
-    <interface color="#7AB8BC" />
-	<enum color="#7AB8BC" />
+	<class color="#64BBBC" bold="false" underline="false" strikethrough="false" />
+    <interface color="#64BBBC" />
+	<enum color="#64BBBC" />
 	
-	<javadoc color="#7AB8BC" italic="false" />
+	<javadoc color="#64BBBC" italic="false" />
 	
 	<!-- base0B - Strings, Inherited Class, Markup Code, Diff Inserted -->
-	<string color="#88CC97" />
+	<staticField color="#82D894" />
+	<staticFinalField color="#82D894" />
 	
-	<staticField color="#88CC97" />
-	<staticFinalField color="#88CC97" />
-	
-	<javadocLink color="#88CC97" italic="false" />
-    <javadocTag color="#88CC97" italic="false" />
-    <javadocKeyword color="#88CC97" italic="false" />
+	<javadocLink color="#82D894" italic="false" />
+    <javadocTag color="#82D894" italic="false" />
+    <javadocKeyword color="#82D894" italic="false" />
 	
 	<!-- base0C - Support, Regular Expressions, Escape Characters, Markup Quotes -->
-	<parameterVariable color="#D6C3B3" />
+	<parameterVariable color="#E1E6EA" />
 	
 	<!-- base0D - Functions, Methods, Attribute IDs, Headings -->
-	<method color="#88CC97" />
-	<methodDeclaration color="#88CC97" />
-	<inheritedMethod color="#88CC97" />
-	<abstractMethod color="#88CC97" />
-	<staticMethod color="#88CC97" />
+	<method color="#82D894" />
+	<methodDeclaration color="#82D894" />
+	<inheritedMethod color="#82D894" />
+	<abstractMethod color="#82D894" />
+	<staticMethod color="#82D894" />
 	
 	<!-- base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed -->
 	<keyword color="#BAA3D1" bold="false" />
@@ -79,7 +79,7 @@
 	<commentTaskTag color="#BAA3D1" italic="false" bold="true" />
 	
 	<!-- base0F - Deprecated, Opening/Closing Embedded Language Tags -->
-	<deprecatedMember color="#ED6D7E" underline="false" strikethrough="true" />
+	<deprecatedMember color="#F78467" underline="false" strikethrough="true" />
 	
 	<!--
     <findScope color="#343D46" />
