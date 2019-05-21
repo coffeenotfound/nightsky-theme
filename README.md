@@ -1,5 +1,8 @@
 # Nightsky
 
+| **Note**: Nightsky has been superseded by <a href="https://github.com/coffeenotfound/newpluto-theme">New Pluto</a>. Same idea, better looking. |
+| --- |
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/coffeenotfound/nightsky-theme/master/assets/palette_overview.png" alt="Color Palette">
 </p>
